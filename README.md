@@ -40,8 +40,9 @@ The architecture follows the **Medallion Architecture** pattern consisting of th
 
 ---
 
-## 📂 Repository Structure
+## 📂 **Repository Structure**  
 
+```
 
 data-warehouse-project/
 ├── datasets/             # Raw data from ERP and CRM systems.
@@ -93,6 +94,7 @@ data-warehouse-project/
 ├── README.md              # Project overview, instructions, and report summaries.
 ├── LICENSE                # License information.
 └── requirements.txt        # Project dependencies (e.g.pgsql libraries).
+```  
 
 
 ## 📖 Project Components
@@ -175,4 +177,31 @@ Let’s connect and discuss Data Engineering & Analytics!
 
 ⭐ **If you liked this project, please give it a star on GitHub!** 🌟  
 It motivates me to keep learning and sharing more projects.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
