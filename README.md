@@ -107,7 +107,7 @@ This project includes the following core components:
 4. **Analytics & Reporting:** Using SQL to create **reports and dashboards** for business insights.  
 
 📘 **Notion Project Dashboard:**  
-[Access All Project Phases & Tasks →](https://www.notion.so/Data-Warehouse-Project-299669f591ad80fdb350eda1b131af36?source=copy_link)
+[Access All Project Phases & Tasks →](https://www.notion.so/SQL-Data-Warehouse-Project-299669f591ad80fdb350eda1b131af36?source=copy_link)
 
 ---
 
